@@ -1,0 +1,6 @@
+ionic start s
+
+npm install firebase@4.12.1
+
+npm install angularfire2@5.0.0-rc.6
+
